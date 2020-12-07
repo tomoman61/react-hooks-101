@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import App from './App';
-import MultipleUseState from './Multiple-useState';
+import MultipleState from './Multiple-state';
 
 ReactDOM.render(
   <React.StrictMode>
-    <MultipleUseState />
+    <MultipleState />
   </React.StrictMode>,
   document.getElementById('root')
 );
